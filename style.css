@@ -6,7 +6,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    
 }
 
 .clearfix::after {
@@ -142,6 +141,7 @@ i {
 .btn-hold { top: 467px;}
 
 .dice {
+    display: none;
     position: absolute;
     left: 50%;
     top: 178px;
